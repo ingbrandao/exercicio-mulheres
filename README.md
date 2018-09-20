@@ -1,2 +1,2 @@
 # exercicio-mulheres
-Exercício - Site Mulheres naComputação
+Exercício - Site Mulheres na Computação
